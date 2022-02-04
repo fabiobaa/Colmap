@@ -1,0 +1,7 @@
+{
+  "name": "colmap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
